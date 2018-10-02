@@ -1,0 +1,12 @@
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.Form2.resources
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\iyads\Desktop\Summer2018,StarkState\SUMMER 2018 VISUAL BASIC DEVELOPMENT (CSE229-001-11279 Morosko)\C#Projects\Week 1B - Windows Programming\Lab\Lab\obj\Debug\Lab.Form4.resources
